@@ -11,6 +11,7 @@ In the package, our $\texttt{D-PBEMO}$ algorithms are named DPBEMO_NSGA2 and DPB
 To use our algorithms, you can run in the command line:
 
 `./EMOC -a DPBEMO_NSGA2 -p DTLZ1 -M 3 -D 12 -N 64 -e 16000 -r 20 -W 0.7,0.8,0.5 -q 25`
+
 `./EMOC -a DPBEMO_NSGA2 -p DTLZ1 -M 3 -D 12 -N 64 -e 16000 -r 20 -W 0.7,0.8,0.5 -q 25`
 
 Or you can also set experiment settings in the config.ini file.
