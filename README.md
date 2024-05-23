@@ -27,7 +27,7 @@ Our $\texttt{D-PBEMO}$ package is now available on Windows, Linux and MacOS. The
 
    Armadillo is a high quality linear algebra library (matrix maths) for the C++ language, aiming towards a good balance between speed and ease of use. 
 
-6. 
+   
 
 ### Get the Source Code
 
