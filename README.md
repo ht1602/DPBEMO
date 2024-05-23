@@ -33,7 +33,7 @@ Our $\texttt{D-PBEMO}$ package is now available on Windows, Linux and MacOS. The
 
 #### **Download from github page**
 
-Go to the [$\texttt{D-PBEMO}$ github page](https://anonymous.4open.science/r/DPBEMO/) and click the option 'Download Reository':
+Go to the [DPBEMO github page](https://anonymous.4open.science/r/DPBEMO/) and click the option 'Download Reository':
 
 <img src="./resource/download.png" alt="image" style="zoom:60%;" />
 
